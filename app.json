@@ -1,6 +1,6 @@
 {
   "name": "My Blog",
-  "description": "My Blog",
+  "description": "My Blog Made With GatsbyJS",
   "keywords": ["contentful", "gatsby", "blog", "portfolio", "static", "ssg"],
   "repository": "https://github.com/AudrickOng/gatsby-blog",
   "success_url": "/",
